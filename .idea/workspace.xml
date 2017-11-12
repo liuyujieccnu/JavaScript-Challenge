@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cba5256-2b6a-4ecd-b9a9-3601c88b12f3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04 - Array Cardio Day 1/readme.md" afterPath="$PROJECT_DIR$/04 - Array Cardio Day 1/readme.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,22 +20,9 @@
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/04 - Array Cardio Day 1/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
+            <state relative-caret-position="732">
               <caret line="72" column="24" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-FINISHED.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04 - Array Cardio Day 1/index-FINISHED.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="85" column="27" lean-forward="false" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="35" />
-              <folding>
-                <marker date="1509061674000" expanded="true" signature="2876:2932" ph="{...}" />
-                <marker date="1509061674000" expanded="true" signature="3803:3854" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -49,6 +36,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/04 - Array Cardio Day 1/index-START.html" />
+        <option value="$PROJECT_DIR$/04 - Array Cardio Day 1/readme.md" />
       </list>
     </option>
   </component>
@@ -86,6 +74,11 @@
             <path>
               <item name="JavaScript-Challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript-Challenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript-Challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript-Challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="03 - CSS Variables" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaScript-Challenge" type="b2602c69:ProjectViewProjectNode" />
@@ -131,12 +124,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510285442167</updated>
       <workItem from="1510285444616" duration="204000" />
-      <workItem from="1510455124135" duration="4207000" />
+      <workItem from="1510455124135" duration="5114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4411000" />
+    <option name="totallyTimeSpent" value="5318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -171,18 +164,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03 - CSS Variables/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -196,9 +177,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/03 - CSS Variables/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04 - Array Cardio Day 1/index-FINISHED.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
+        <state relative-caret-position="-17">
           <caret line="85" column="27" lean-forward="false" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="35" />
           <folding>
             <marker date="1509061674000" expanded="true" signature="2876:2932" ph="{...}" />
@@ -207,9 +201,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04 - Array Cardio Day 1/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04 - Array Cardio Day 1/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
+        <state relative-caret-position="732">
           <caret line="72" column="24" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
           <folding />
         </state>
